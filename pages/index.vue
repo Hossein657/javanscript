@@ -2,6 +2,7 @@
 <div class="wrapper">
   <top/>
   <cards/>
+  <p id="smile">Smile :)</p>
 </div>
 </template>
 
@@ -18,9 +19,17 @@ export default {
   padding: 0;
 }
 .wrapper{
+  box-sizing: border-box;
   width: 100vw;
   height: 100vh;
   background-color: #010D0A;
   color: #fff;
+  padding: 30px
+}
+#smile{
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translate(-50%);
 }
 </style>
