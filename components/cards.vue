@@ -2,7 +2,7 @@
     <div class="container">
         <ul>
             <li>
-                <a href="tel:+989399308958" target="_blank">
+                <a href="tel:+989399308958">
                     <div><img src="~/static/icons/phone.svg" alt="phone icon"><p>Call me</p></div>
                 </a>
             </li>
@@ -27,7 +27,7 @@
                 </a>
             </li> -->
             <li>
-                <a href="#" target="_blank">
+                <a href="https://www.linkedin.com/in/hossein-javanbakht-98046a18b/" target="_blank">
                     <div><img src="~/static/icons/linkedin.svg" alt="linkedin icon"><p>linkedin</p></div>
                 </a>
             </li>

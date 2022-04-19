@@ -1,5 +1,9 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  target: "static",
+  router: {
+    base: "/javanscript",
+  },
   head: {
     title: "javanscript",
     htmlAttrs: {
@@ -21,7 +25,9 @@ export default {
       },
     ],
   },
-
+  publicRuntimeConfig: {
+    BASE_URL: "/javanscript",
+  },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
 

@@ -2,7 +2,7 @@
 <div class="wrapper">
   <top/>
   <cards/>
-  <p id="smile">Smile :)</p>
+  <p id="smile">Live in the moment :)</p>
 </div>
 </template>
 
