@@ -25,9 +25,7 @@ export default {
       },
     ],
   },
-  publicRuntimeConfig: {
-    BASE_URL: "/javanscript",
-  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [],
 
