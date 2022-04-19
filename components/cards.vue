@@ -18,7 +18,7 @@
             </li>
             <li>
                 <a href="https://github.com/JavanScript/" target="_blank">
-                    <div><img src="~/static/icons/github.svg" alt="Github icon"><p>Github</p></div>
+                    <div><img :src="`${$config.BASE_URL}/static/icons/github.svg`" alt="Github icon"><p>Github</p></div>
                 </a>
             </li>
             <li>

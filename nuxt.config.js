@@ -2,10 +2,10 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: "static",
   router: {
-    base: "/javanscript.github.io/",
+    base: "/javanscript.github.io",
   },
   publicRuntimeConfig: {
-    BASE_URL: "/javanscript.github.io/",
+    BASE_URL: "/javanscript.github.io",
   },
   head: {
     title: "javanscript",
