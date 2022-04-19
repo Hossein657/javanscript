@@ -8,7 +8,7 @@
             </li>
             <li>
                 <a href="https://www.instagram.com/javanscript__/" target="_blank">
-                    <div><img src="~/static/icons/instagram.svg" alt="Instagram icon"><p>Instagram</p></div>
+                    <div><img src="~/static/icons/telegram.svg" alt="Instagram icon"><p>Instagram</p></div>
                 </a>
             </li>
             <li>
