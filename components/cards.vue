@@ -3,12 +3,12 @@
         <ul>
             <li>
                 <a href="tel:+989399308958">
-                    <div><img :src="`${$config.BASE_URL}/static/icons/phone.svg`" alt="phone icon"><p>Call me</p></div>
+                    <div><img :src="`$/static/icons/phone.svg`" alt="phone icon"><p>Call me</p></div>
                 </a>
             </li>
             <li>
                 <a href="https://www.instagram.com/javanscript__/" target="_blank">
-                    <div><img src="~/static/icons/instagram.svg" alt="Instagram icon"><p>Instagram</p></div>
+                    <div><img :src="`$/static/icons/instagram.svg`" alt="Instagram icon"><p>Instagram</p></div>
                 </a>
             </li>
             <li>
