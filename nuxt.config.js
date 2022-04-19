@@ -4,9 +4,6 @@ export default {
   router: {
     base: "/javanscript.github.io",
   },
-  publicRuntimeConfig: {
-    BASE_URL: "/javanscript.github.io",
-  },
   head: {
     title: "javanscript",
     htmlAttrs: {

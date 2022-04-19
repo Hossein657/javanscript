@@ -3,12 +3,12 @@
         <ul>
             <li>
                 <a href="tel:+989399308958">
-                    <div><img :src="`$/static/icons/phone.svg`" alt="phone icon"><p>Call me</p></div>
+                    <div><img src="~/static/icons/phone.svg" alt="phone icon"><p>Call me</p></div>
                 </a>
             </li>
             <li>
                 <a href="https://www.instagram.com/javanscript__/" target="_blank">
-                    <div><img :src="`$/static/icons/instagram.svg`" alt="Instagram icon"><p>Instagram</p></div>
+                    <div><img src="~/static/icons/instagram.svg" alt="Instagram icon"><p>Instagram</p></div>
                 </a>
             </li>
             <li>
@@ -18,7 +18,7 @@
             </li>
             <li>
                 <a href="https://github.com/JavanScript/" target="_blank">
-                    <div><img :src="`${$config.BASE_URL}/static/icons/github.svg`" alt="Github icon"><p>Github</p></div>
+                    <div><img src="~/static/icons/github.svg`" alt="Github icon"><p>Github</p></div>
                 </a>
             </li>
             <li>
